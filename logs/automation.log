@@ -1,0 +1,56 @@
+12:48:13.931 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Works\com.AutomationExercise\master.xml
+
+12:51:13.948 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Works\com.AutomationExercise\master.xml
+
+12:52:16.878 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Works\com.AutomationExercise\master.xml
+
+12:56:25.669 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Works\com.AutomationExercise\master.xml
+
+12:57:22.124 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Works\com.AutomationExercise\master.xml
+
+12:58:41.285 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Works\com.AutomationExercise\master.xml
+
+13:03:15.369 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Works\com.AutomationExercise\master.xml
+
+11:20:19.132 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Works\com.AutomationExercise\master.xml
+
+11:28:39.529 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Works\com.AutomationExercise\master.xml
+
+11:29:40.848 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Works\com.AutomationExercise\master.xml
+
+13:02:26.475 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Works\com.Automation_Exercise\master.xml
+
+18:49:59.135 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Works\com.Automation_Exercise\CrossBrowseTesting.xml
+
+18:50:14.254 [TestNG-tests-1] INFO  testCases.TC005_End_To_End_Test - *** TC005_Starting Test Cases_ ***
+18:50:14.255 [TestNG-tests-2] INFO  testCases.TC005_End_To_End_Test - *** TC005_Starting Test Cases_ ***
+18:50:17.074 [TestNG-tests-1] INFO  testCases.TC005_End_To_End_Test - *** TC005_Clicked On Create Sign in Button_  ***
+18:50:17.087 [TestNG-tests-2] ERROR testCases.TC005_End_To_End_Test - Test failed
+18:50:17.678 [TestNG-tests-1] ERROR testCases.TC005_End_To_End_Test - Test failed
+18:51:31.963 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Works\com.Automation_Exercise\master.xml
+
+18:51:39.164 [main] INFO  testCases.TC005_End_To_End_Test - *** TC005_Starting Test Cases_ ***
+18:51:41.061 [main] INFO  testCases.TC005_End_To_End_Test - *** TC005_Clicked On Create Sign in Button_  ***
+18:51:42.479 [main] INFO  testCases.TC005_End_To_End_Test - *** TC005_Entering User Details_  ***
+18:51:48.605 [main] INFO  testCases.TC005_End_To_End_Test - *** TC005_Account Successfully Created_  ***
+18:51:55.151 [main] INFO  testCases.TC005_End_To_End_Test - *** TC005_Logging With Created UserName and Password_  ***
+18:51:58.105 [main] INFO  testCases.TC005_End_To_End_Test - *** TC005_Account Successfully Logged in_  ***
+18:52:03.797 [main] INFO  testCases.TC005_End_To_End_Test - *** TC005_Adding Products To Cart_  ***
+18:52:49.390 [main] INFO  testCases.TC005_End_To_End_Test - *** TC005_Proceed To Check Out_  ***
+18:52:51.655 [main] INFO  testCases.TC005_End_To_End_Test - *** TC005_Entering Card Details_  ***
+18:52:59.287 [main] INFO  testCases.TC005_End_To_End_Test - *** TC005_Order Got Place Successfully_  ***
+18:53:01.005 [main] INFO  testCases.TC005_End_To_End_Test - *** TC005_Account Logged Out_  ***
+18:53:01.005 [main] INFO  testCases.TC005_End_To_End_Test - *** TC005_Test Case Finished_  ***
